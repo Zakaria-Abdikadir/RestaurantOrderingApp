@@ -25,7 +25,11 @@ The app allows users to browse food and drink menus, place orders, and view orde
 - **Version Control:** Git & GitHub
 
 ---
+![WhatsApp Image 2025-11-03 at 15 54 20_177bd44b](https://github.com/user-attachments/assets/2166b811-89f1-4091-aefc-493868d5f4f4)
 
+![WhatsApp Image 2025-11-03 at 15 54 19_1bb63694](https://github.com/user-attachments/assets/ce4b3746-61c1-470b-933e-bcbec1c6a0f7)
+
+![Uploading WhatsApp Image 2025-11-03 at 15.54.18_f8e93c5b.jpg…]()
 
 ## 🚀 How to Run the Project
 
